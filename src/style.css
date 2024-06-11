@@ -94,6 +94,7 @@ body
 
 .scrollv
 {
+    overflow: visible;
     overflow-y: scroll;
 }
 
@@ -124,6 +125,10 @@ body
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    width: 80%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
 }
 
 .rider
