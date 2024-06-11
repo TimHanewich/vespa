@@ -127,7 +127,7 @@ body
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 80%;
+    width: 100%;
     left: 50%;
     position: absolute;
     transform: translateX(-50%);
@@ -232,4 +232,13 @@ body
     border-color: gray;
     border-style: solid;
     border-width: 2px;
+}
+
+.page-content
+{
+    width: 80%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 200px;
 }
