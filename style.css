@@ -159,6 +159,7 @@ body
     grid-column: 1;
     height: 100%;
     width: 100%;
+    position: relative;
 }
 
 .rider-img
@@ -168,6 +169,7 @@ body
     width: 100%;
     object-fit: contain;
     max-height: 12vw;
+    z-index: 0;
 }
 
 .rider-desc-cont
@@ -216,4 +218,15 @@ body
     margin-top: 0px;
     font-size: 1.25vw;
     font-weight: lighter;
+}
+
+.riders-vespa
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 40%;
+    height: 40%;
+    object-fit: cover;
+    border-radius: 50%;
 }
