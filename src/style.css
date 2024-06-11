@@ -132,13 +132,19 @@ body
     grid-template-columns: 12vw 1fr;
     height: 12vw;
     width: 30vw;
-    background-color: darkcyan;
+    background-color: rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     border-color: gray;
     border-width: 3px;
     border-style: solid;
     overflow: hidden;
     padding: 10px;
+    margin: 10px;
+}
+
+.rider:hover
+{
+    border-color: gold;
 }
 
 .rider-img-cont
@@ -166,6 +172,7 @@ body
 
 .rider-title
 {
+    font-weight: bol;
     font-size: 2vw;
     margin-left: 10px;
     margin-top: 0px;
@@ -175,9 +182,9 @@ body
 
 .rider-desc
 {
-    font-size: 1.5vw;
+    font-size: 1.35vw;
     margin-left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
-    line-height: 30px;
+    line-height: 28px;
 }
