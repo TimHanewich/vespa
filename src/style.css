@@ -118,3 +118,66 @@ body
     font-size: 2vw;
     margin-top: 0px;
 }
+
+.riders-cont
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.rider
+{
+    display: grid;
+    grid-template-columns: 12vw 1fr;
+    height: 12vw;
+    width: 30vw;
+    background-color: darkcyan;
+    border-radius: 10px;
+    border-color: gray;
+    border-width: 3px;
+    border-style: solid;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.rider-img-cont
+{
+    grid-column: 1;
+    height: 100%;
+    width: 100%;
+}
+
+.rider-img
+{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    max-height: 12vw;
+}
+
+.rider-desc-cont
+{
+    grid-column: 2;
+    height: 100%;
+    width: 100%;
+}
+
+.rider-title
+{
+    font-size: 2vw;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.rider-desc
+{
+    font-size: 1.5vw;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 30px;
+}
