@@ -42,7 +42,13 @@
     font-size: 20pt;
     color: white;
     text-transform: uppercase;
-    font-family: "oswald"
+    font-family: "oswald";
+}
+
+.tab-txt:hover
+{
+    font-weight: bold;
+    color: gold;
 }
 
 @font-face
@@ -72,4 +78,10 @@
     word-wrap: normal;
     text-align: center;
     width: 100%;
+}
+
+.aplain
+{
+    color: inherit;
+    text-decoration: none;
 }
