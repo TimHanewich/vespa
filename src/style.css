@@ -208,10 +208,12 @@ body
 {
     font-size: 1.75vw;
     font-weight: lighter;
+    margin-bottom: 0px;
 }
 
 .disclaimer-txt
 {
+    margin-top: 0px;
     font-size: 1.25vw;
     font-weight: lighter;
 }
