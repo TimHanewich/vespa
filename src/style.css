@@ -195,3 +195,23 @@ body
     margin-bottom: 0px;
     line-height: 28px;
 }
+
+.disclaimer-cont
+{
+    width: 67%;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+.disclaimer-title
+{
+    font-size: 1.75vw;
+    font-weight: lighter;
+}
+
+.disclaimer-txt
+{
+    font-size: 1.25vw;
+    font-weight: lighter;
+}
