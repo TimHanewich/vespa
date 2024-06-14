@@ -6,8 +6,16 @@
 - Critique some riders descriptions.
 - Interest form
 - SEO
+- Add what we do to maintain safety:
+    - How we stagger (with example photos)
+    - Every ride is pre-planned. And you can see our routes ahead of time
+    - We nominate a vespa rider to serve as "sweep". 
+    - The safety gear we use (helmets, gloves, long sleeve everything)
+    - We ride in the morning only. We ride in good weather only.
+    - We bring water to stay hydrated in the Florida sun
+    - We usually bring a tire inflater with us just in case of a tire incident
+    - how we point out potholes or other debris in  the road
 
-- Have an idea for a ride? Want to lead a ride or want to learn how to lead? Fill out this form below and will be in touch. !  
 - Like and subscribe on youtube channel
 
 Safety guidelines for VCOS Rides:
