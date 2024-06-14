@@ -23,3 +23,4 @@
     - Wear safety gear
     - Come with a full tank. We will not be stopping for gas.
     - Ride respectfully. If you're looking for a group to ride recklessly with, this isn't it.
+    - Must have a motorcycle license
