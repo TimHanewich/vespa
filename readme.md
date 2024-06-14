@@ -7,7 +7,6 @@
 - Interest form
 - SEO
 
-- add michelle to media team
 - Have an idea for a ride? Want to lead a ride or want to learn how to lead? Fill out this form below and will be in touch. !  
 - Like and subscribe on youtube channel
 
