@@ -295,3 +295,10 @@ body
 {
     width: 100%;
 }
+
+.centered-img
+{
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}

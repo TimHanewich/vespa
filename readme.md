@@ -7,15 +7,15 @@
 - Interest form
 - SEO
 - Safety:
-    - How we stagger (with example photos)
+    - ~~How we stagger (with example photos)~~
     - Every ride is pre-planned. And you can see our routes ahead of time
     - We nominate a vespa rider to serve as "sweep". 
-    - The safety gear we use (helmets, gloves, long sleeve everything)
+    - ~~The safety gear we use (helmets, gloves, long sleeve everything)~~
     - We ride in the morning only. We ride in good weather only.
-    - We bring water to stay hydrated in the Florida sun
+    - ~~We bring water to stay hydrated in the Florida sun~~
     - We usually bring a tire inflater with us just in case of a tire incident
     - how we point out potholes or other debris in  the road
-    - The leader does a pre-ride announcement before we set off with where we will be going, what we will be doing, areas to be aware of, etc.
+    - ~~The leader does a pre-ride announcement before we set off with where we will be going, what we will be doing, areas to be aware of, etc.~~
 
 - Riding Guidelines
     - Please be prompt for kick stands up departure time with your gas tank filled 
