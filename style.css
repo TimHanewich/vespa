@@ -240,7 +240,6 @@ body
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-    height: 200px;
 }
 
 .blockp
@@ -275,4 +274,24 @@ body
     margin-bottom: 0px;
     margin-top: 80px;
     font-weight: 500;
+}
+
+.safety-principle-title
+{
+    font-size:30pt;
+    font-weight: lighter;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 100%;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.fw-img
+{
+    width: 100%;
 }
