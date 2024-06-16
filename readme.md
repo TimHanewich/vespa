@@ -8,8 +8,8 @@
 - SEO
 - Safety:
     - ~~How we stagger (with example photos)~~
-    - Every ride is pre-planned. And you can see our routes ahead of time
-    - We nominate a vespa rider to serve as "sweep". 
+    - ~~Every ride is pre-planned. And you can see our routes ahead of time~~
+    - ~~We nominate a vespa rider to serve as "sweep".~~
     - ~~The safety gear we use (helmets, gloves, long sleeve everything)~~
     - We ride in the morning only. We ride in good weather only.
     - ~~We bring water to stay hydrated in the Florida sun~~
