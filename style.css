@@ -130,7 +130,7 @@ body
     justify-content: center;
     width: 100%;
     left: 50%;
-    position: absolute;
+    position: relative;
     transform: translateX(-50%);
 }
 
