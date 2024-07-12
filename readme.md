@@ -25,4 +25,4 @@
 - ~~Kat rides Black 2005 ET4 150.~~
 - ~~Brad rides silver 2016 GTV300~~
 - Vespa 2024 parade video
-- Add willie to riders page. Willie rides white 2024 Vespa GTS300 Super
+- ~~Add willie to riders page. Willie rides white 2024 Vespa GTS300 Super~~
