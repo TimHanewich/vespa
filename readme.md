@@ -20,7 +20,7 @@
     - Must have a motorcycle license
 
 ## To Do july 12, 2024
-- Line saying "We are adding more riders!" at the end of the riders page
+- ~~Line saying "We are adding more riders!" at the end of the riders page~~
 - YouTube channel picture in reference.
 - ~~Kat rides Black 2005 ET4 150.~~
 - ~~Brad rides silver 2016 GTV300~~
