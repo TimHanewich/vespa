@@ -302,3 +302,12 @@ body
     position: relative;
     transform: translateX(-50%);
 }
+
+.interest-form
+{
+    position: relative;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+}
