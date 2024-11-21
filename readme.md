@@ -1,3 +1,5 @@
 ## To Do:
-- Image size optimiztion on riders page
-- SEO
+- Add riders:
+    - Jim from Myakka Valley Ranches
+    - Jim and Deb
+    - Mike from St. Pete
