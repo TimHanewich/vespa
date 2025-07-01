@@ -6,4 +6,4 @@
     - Build the slide
     - Copy and paste all elements of the slide, but "Special Paste" as SVG (top left in PowerPoint)
     - Export as SVG
-    - Make the `rect` element of the SVG transparent by setting `fill="none"` in the `rect`.
+    - Make the `rect` element of the SVG transparent by setting `fill="none"` in the `rect`
